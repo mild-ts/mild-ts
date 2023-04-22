@@ -2,7 +2,8 @@
 Opinionated TypeScript Utility Libraries
 
 ## Packages
-- [@mild-ts/utils](https://github.com/mildronize/utils)
+- [@mild-ts/utils](https://github.com/mild-ts/utils)
+- [@mild-ts/rest-client](https://github.com/mild-ts/rest-client)
 
 ## TODO
 
